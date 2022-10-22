@@ -31,9 +31,26 @@ I am releasing the editor sooner so you can enjoy, or test, I still have some ut
 
 
 # ROADMAP
+#### Stage 0
+* [X] Add SmartTexture class (I love this class is everywhere in the module)
+* [X] Add TerrainRenderer abstract class
+  * Add Subrenderers:
+    * [X] CDLODRendrerer
+* [X] Add Erosion Simulation and Filters
+  * [X] Hydraulic Erosion
+  * [X] Thermal Erosion
+  * [X] Wind Erosion
+  * [X] Gaussian Blur Filter
+* [X] Add Biomes
+  * [X] Add PoissonGenerator and PoissonMixer classes for "pretty" entity placement
+  * [X] Add BiomeItem types: DECAL, GRASS, SHRUB, OBJECT, TREE
+* [X] Add BiomeRenderer abstract class
+  * Add Subrenderers:
+    * [X] GridRendrerer
+* [X] Overhaul TerrainEditor class
+  * [X] Add capability to export the images stored inside the Terrain Data to the file system with acustom .import attatched (Use it before releasing the game. The Terraindata class is really heavy in size and can and will slow down your load times)  
 #### Stage 1
 * [X] Add a Terrain Material class ( used by the BiomeItems to access each patch texture independently)
-* [X] Add Biomes
 * [X] Add Biome Blocker Node
 * [X] Add Surface Editor Node ( To edit the shadows heightmap and block biomes with custom meshes
 * [ ] Write Documentation
