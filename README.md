@@ -32,6 +32,7 @@ I am releasing the editor sooner so you can enjoy, or test, I still have some ut
 
 # ROADMAP
 #### Stage 1
+* [X] Add a Terrain Material class ( used by the BiomeItems to access each patch texture independently)
 * [X] Add Biomes
 * [X] Add Biome Blocker Node
 * [X] Add Surface Editor Node ( To edit the shadows heightmap and block biomes with custom meshes
