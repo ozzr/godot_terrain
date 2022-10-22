@@ -21,4 +21,23 @@ Use this Page.
 # Important!
 I am releasing the editor sooner so you can enjoy, or test, I still have some utilities to add and methods to expose to gdscript. Also, you should notice that terrain rendering is not a cheap task, so, target your low end devices wisely.
 
+### Fast Get Started Tuto:
+Press buttons when ever you see one until anything works or I finish the documentation :P
 
+
+# ROADMAP
+#### Stage 1
+* [X] Add Biomes
+* [X] Add Biome Blocker Node
+* [X] Add Surface Editor Node ( To edit the shadows heightmap and block biomes with custom meshes
+* [ ] Write Documentation
+* [ ] Release Initial Tutorials
+
+
+#### Stage 2
+* [ ] Add Surface Regional Texture Proxy ( Just something to read more than one patch texture as one) (Maybe use a viewport?) 
+* [ ] Add Navigation
+* [ ] Add Path Painter
+  * [ ] Add Roads
+  * [ ] Add Rivers
+* [ ] Update Documentation
