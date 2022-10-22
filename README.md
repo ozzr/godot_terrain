@@ -21,8 +21,13 @@ Use this Page.
 # Important!
 I am releasing the editor sooner so you can enjoy, or test, I still have some utilities to add and methods to expose to gdscript. Also, you should notice that terrain rendering is not a cheap task, so, target your low end devices wisely.
 
-### Fast Get Started Tuto:
-Press buttons when ever you see one until anything works or I finish the documentation :P
+### Getting Started:
+1. Add a Terrain Node into the Scene
+2. Save the TerrainData as a separate File (is in the Storage group)
+3. Go to the Terrain Menu (it is the Terrain Icon in the top left of the new side bar that appeared in your Spatial Vieport View) and Hit "Bake Globalmap"
+4. Decide beforehand what sizes do you want for the textures. Downscaling is fine but when upscaling you get artifacts in the textures and the borders will no longer match. Use with care.
+5. The new tool bar has a lot of buttons, hover them to know what they do. At the bottom of the column there are popup buttons: Brush Selector (B), Color Selector (C), Paint Texture Selecttor (T), Biome Selector (I), Simulation Selector (R). Test each one of them.
+6. Good luck! I will release a Tutorial Video Soon
 
 
 # ROADMAP
