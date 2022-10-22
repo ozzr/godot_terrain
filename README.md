@@ -10,7 +10,7 @@ Over the last year I have worked in this project. My idea was to create a Terrai
 * More to come ...
 
 ### Where are the export templates?
-I am releasing the editor´s build for free. The export templates will be available for purchase at a reasonable price soon or if you want to compile the module your self, you can purchase the source code too. 
+I am releasing the editor for free. The export templates will be available for purchase at a reasonable price soon or if you want to compile the module your self, you can purchase the source code too. 
 
 ### Where are the Tutorials?
 Tutorials will be available soon. I am working on them.
