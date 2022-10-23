@@ -1,5 +1,5 @@
 
-# Godot Engine + Cuatom Terrain Module
+# Godot Engine + Custom Terrain Module
 ![Kiku](simple_demo/simple_scene.jpg)
 Custom Godot Engine Build with Terrain Module
 
