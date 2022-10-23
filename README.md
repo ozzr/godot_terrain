@@ -1,7 +1,9 @@
+
 # Godot Engine + Cuatom Terrain Module
+![Kiku](simple_demo/simple_scene.jpg)
 Custom Godot Engine Build with Terrain Module
 
-[Go and grab the engine in the releases section](https://github.com/ozzr/godot_terrain/tags)
+To start testing, download or clone this repo [grab the compiled engine in the release section](https://github.com/ozzr/godot_terrain/tags) and open the project.
 ## Description
 Over the last year I have worked in this project. My idea was to create a Terrain system inside godot that worked under both backends GLES3 - GLES2.
 ### What you get:
