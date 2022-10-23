@@ -26,11 +26,11 @@ Use this Page.
 ### In what platforms does it work?
 * [X] Windows - TESTED
 * [X] Android - TESTED
-* [X] HTML5 - SHOULD WORK (if threads are disabled) - UNTESTED
-* [X] Linux - SHOULD WORK - UNTESTED
-* [X] Mac - SHOULD WORK - CANT TEST PERSONALLY ON THIS PLATFORM
-* [X] iOs - SHOULD WORK - CANT TEST PERSONALLY ON THIS PLATFORM
-* [X] Any Other Platform - SHOULD WORK - The module is made entirely of Godot internal classes and resources so in theory it should work wherever Godot does.
+* [ ] HTML5 - SHOULD WORK (if threads are disabled) - UNTESTED
+* [ ] Linux - SHOULD WORK - UNTESTED
+* [ ] Mac - SHOULD WORK - CANT TEST PERSONALLY ON THIS PLATFORM
+* [ ] iOs - SHOULD WORK - CANT TEST PERSONALLY ON THIS PLATFORM
+* [ ] Any Other Platform - SHOULD WORK - The module is made entirely of Godot internal classes and resources so in theory it should work wherever Godot does.
 
 # Important!
 I am releasing the editor sooner so you can enjoy, or test, I still have some utilities to add and methods to expose to gdscript. Also, you should notice that terrain rendering is not a cheap task, so, target your low end devices wisely.
