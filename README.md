@@ -1,11 +1,12 @@
 
 # Godot Engine + Custom Terrain Module
-![Kiku](simple_demo/simple_scene.jpg)
+![simple_scene](simple_demo/simple_scene.jpg)
 Custom Godot Engine Build with Terrain Module
 
 To start testing, download or clone this repo [grab the compiled engine in the release section](https://github.com/ozzr/godot_terrain/tags) and open the project.
 ## Description
 Over the last year I have worked in this project. My idea was to create a Terrain system inside godot that worked under both backends GLES3 - GLES2.
+
 ### What you get:
 * Full In Editor terrain editor
 * Endless Patched terrain
@@ -22,6 +23,15 @@ Tutorials will be available soon. I am working on them.
 ### Where can I report Issues?
 Use this Page. 
 
+### In what platforms does it work?
+* [X] Windows - TESTED
+* [X] Android - TESTED
+* [X] HTML5 - SHOULD WORK (if threads are disabled) - UNTESTED
+* [X] Linux - SHOULD WORK - UNTESTED
+* [X] Mac - SHOULD WORK - CANT TEST PERSONALLY ON THIS PLATFORM
+* [X] iOs - SHOULD WORK - CANT TEST PERSONALLY ON THIS PLATFORM
+* [X] Any Other Platform - SHOULD WORK - The module is made entirely of Godot internal classes and resources so in theory it should work wherever Godot does.
+
 # Important!
 I am releasing the editor sooner so you can enjoy, or test, I still have some utilities to add and methods to expose to gdscript. Also, you should notice that terrain rendering is not a cheap task, so, target your low end devices wisely.
 
@@ -34,7 +44,7 @@ I am releasing the editor sooner so you can enjoy, or test, I still have some ut
 6. Good luck! I will release a Tutorial Video Soon
 
 
-# ROADMAP
+## ROADMAP
 #### Stage 0
 * [X] Add SmartTexture class (I love this class is everywhere in the module)
 * [X] Add TerrainRenderer abstract class
