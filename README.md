@@ -3,7 +3,10 @@
 ![simple_scene](simple_demo/simple_scene.jpg)
 Custom Godot Engine Build with Terrain Module
 
-To start testing, download or clone this repo [grab the compiled engine in the release section](https://github.com/ozzr/godot_terrain/tags) and open the project.
+### You can purchase the source code and export templates at [Gumroad](https://ozzrc.gumroad.com/l/qbcek)
+
+To start testing, download or clone this repo [grab the compiled engine in the release section](https://github.com/ozzr/godot_terrain/tags) and open one of the projects.
+
 ## Description
 Over the last year I have worked in this project. My idea was to create a Terrain system inside godot that worked under both backends GLES3 - GLES2.
 
@@ -15,10 +18,11 @@ Over the last year I have worked in this project. My idea was to create a Terrai
 * More to come ...
 
 ### Where are the export templates?
-I am releasing the editor for free. The export templates will be available for purchase at a reasonable price soon or if you want to compile the module your self, you can purchase the source code at https://ozzrc.gumroad.com/l/qbcek. 
+I am releasing the editor for free. The export templates and the source code are available for purchase at [Gumroad](https://ozzrc.gumroad.com/l/qbcek) however my advice is that you compile the module your self, doing that is easier than you think, even if you are not a programmer, just do EXACTLY what the godot build pages tell to do. Depending on your machine, it could only take you some minutes to compile the engine.
 
 ### Where are the Tutorials?
 [00 - Godot Engine Custom Terrain Module - Introduction](https://youtu.be/CWlr1-4R5fY)
+[01 - Godot Engine Custom Terrain Module - The First Terrain](https://youtu.be/Sn48tMgi2_M)
 
 ### Where can I report Issues?
 Use this Page. 
