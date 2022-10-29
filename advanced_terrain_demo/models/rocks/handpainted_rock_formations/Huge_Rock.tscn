@@ -1,0 +1,17 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://models/rocks/handpainted_rock_formations/HP_RockForm_01.obj" type="ArrayMesh" id=1]
+[ext_resource path="res://models/rocks/handpainted_rock_formations/textures/RockForm01_Diffuse_01.png" type="Texture" id=2]
+[ext_resource path="res://models/rocks/handpainted_rock_formations/textures/RockForm01_Normal_01.png" type="Texture" id=3]
+
+[sub_resource type="SpatialMaterial" id=8]
+albedo_texture = ExtResource( 2 )
+normal_enabled = true
+normal_scale = 1.0
+normal_texture = ExtResource( 3 )
+
+[node name="Huge_Rock" type="MeshInstance"]
+transform = Transform( 19.9924, -0.537572, 0.121878, 0.537573, 18.0373, -8.62372, 0.121878, 8.62372, 18.0448, -79.2348, -2.24488, -854.609 )
+material_override = SubResource( 8 )
+mesh = ExtResource( 1 )
+skeleton = NodePath("../..")
