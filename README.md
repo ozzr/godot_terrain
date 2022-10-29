@@ -15,10 +15,10 @@ Over the last year I have worked in this project. My idea was to create a Terrai
 * More to come ...
 
 ### Where are the export templates?
-I am releasing the editor for free. The export templates will be available for purchase at a reasonable price soon or if you want to compile the module your self, you can purchase the source code too. 
+I am releasing the editor for free. The export templates will be available for purchase at a reasonable price soon or if you want to compile the module your self, you can purchase the source code at https://ozzrc.gumroad.com/l/qbcek. 
 
 ### Where are the Tutorials?
-Tutorials will be available soon. I am working on them.
+[00 - Godot Engine Custom Terrain Module - Introduction](https://youtu.be/CWlr1-4R5fY)
 
 ### Where can I report Issues?
 Use this Page. 
