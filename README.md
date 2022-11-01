@@ -25,6 +25,8 @@ I am releasing the editor for free. The export templates and the source code are
 
 [01 - Godot Engine Custom Terrain Module - The First Terrain](https://youtu.be/Sn48tMgi2_M)
 
+[02 - Godot Engine Custom Terrain Module - The Terrain Node Properties](https://youtu.be/CWlr1-4R5fY)
+
 ### Where can I report Issues?
 Use this Page. 
 
@@ -32,7 +34,7 @@ Use this Page.
 * [X] Windows - TESTED
 * [X] Android - TESTED
 * [ ] HTML5 - SHOULD WORK (if threads are disabled) - UNTESTED
-* [ ] Linux - SHOULD WORK - UNTESTED
+* [X] Linux - TESTED
 * [ ] Mac - SHOULD WORK - CANT TEST PERSONALLY ON THIS PLATFORM
 * [ ] iOs - SHOULD WORK - CANT TEST PERSONALLY ON THIS PLATFORM
 * [ ] Any Other Platform - SHOULD WORK - The module is made entirely of Godot internal classes and resources so in theory it should work wherever Godot does.
