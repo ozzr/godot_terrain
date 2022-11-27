@@ -33,8 +33,8 @@ Use this Page.
 ### In what platforms does it work?
 * [X] Windows - TESTED
 * [X] Android - TESTED
-* [ ] HTML5 - SHOULD WORK (if threads are disabled) - UNTESTED
 * [X] Linux - TESTED
+* [ ] HTML5 - TESTING. Works using GLES2 but there are errors while stitching neighbor terrain patches
 * [ ] Mac - SHOULD WORK - CANT TEST PERSONALLY ON THIS PLATFORM
 * [ ] iOs - SHOULD WORK - CANT TEST PERSONALLY ON THIS PLATFORM
 * [ ] Any Other Platform - SHOULD WORK - The module is made entirely of Godot internal classes and resources so in theory it should work wherever Godot does.
