@@ -34,7 +34,7 @@ Use this Page.
 * [X] Windows - TESTED
 * [X] Android - TESTED
 * [X] Linux - TESTED
-* [ ] HTML5 - TESTING. Works using GLES2 but there are errors while stitching neighbor terrain patches
+* [ ] HTML5 - NEEDS MORE TESTING. There are errors stitching neighbor terrain patches in GLES2 most probably due to non squeare of 2 heightmap size
 * [ ] Mac - SHOULD WORK - CANT TEST PERSONALLY ON THIS PLATFORM
 * [ ] iOs - SHOULD WORK - CANT TEST PERSONALLY ON THIS PLATFORM
 * [ ] Any Other Platform - SHOULD WORK - The module is made entirely of Godot internal classes and resources so in theory it should work wherever Godot does.
