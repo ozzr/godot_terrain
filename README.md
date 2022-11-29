@@ -1,5 +1,5 @@
 
-# Godot Engine + Custom Terrain Module
+# Terrain Module for Godot Engine
 ![simple_scene](simple_demo/simple_scene.jpg)
 Custom Godot Engine Build with Terrain Module
 
