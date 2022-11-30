@@ -31,7 +31,7 @@ I am releasing the editor for free. The export templates and the source code are
 
 [02 - Godot Engine Custom Terrain Module - The Terrain Node Properties](https://youtu.be/CWlr1-4R5fY)
 
-**[Read The Documentation Here](/documentation/index.md)**
+**[Read The Documentation Here](https://github.com/ozzr/godot_terrain/blob/main/documentation/index.md)**
 
 ### Where can I report Issues?
 Use this Page. 
