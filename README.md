@@ -1,7 +1,11 @@
 
-# Terrain Module for Godot Engine
+Terrain Module for Godot Engine
+---------------------------------
+
 ![simple_scene](simple_demo/simple_scene.jpg)
 Custom Godot Engine Build with Terrain Module
+
+#### v1.0.2
 
 ### You can purchase the source code and export templates at [Gumroad](https://ozzrc.gumroad.com/l/qbcek)
 
@@ -27,6 +31,8 @@ I am releasing the editor for free. The export templates and the source code are
 
 [02 - Godot Engine Custom Terrain Module - The Terrain Node Properties](https://youtu.be/CWlr1-4R5fY)
 
+**[Read The Documentation Here](/documentation/index.md)**
+
 ### Where can I report Issues?
 Use this Page. 
 
@@ -34,7 +40,7 @@ Use this Page.
 * [X] Windows - TESTED
 * [X] Android - TESTED
 * [X] Linux - TESTED
-* [ ] HTML5 - NEEDS MORE TESTING. There are errors stitching neighbor terrain patches in GLES2 most probably due to non squeare of 2 heightmap size
+* [X] HTML5 - TESTED
 * [ ] Mac - SHOULD WORK - CANT TEST PERSONALLY ON THIS PLATFORM
 * [ ] iOs - SHOULD WORK - CANT TEST PERSONALLY ON THIS PLATFORM
 * [ ] Any Other Platform - SHOULD WORK - The module is made entirely of Godot internal classes and resources so in theory it should work wherever Godot does.
@@ -74,8 +80,8 @@ I am releasing the editor sooner so you can enjoy, or test, I still have some ut
 * [X] Add a Terrain Material class ( used by the BiomeItems to access each patch texture independently)
 * [X] Add Biome Blocker Node
 * [X] Add Surface Editor Node ( To edit the shadows heightmap and block biomes with custom meshes
-* [ ] Write Documentation
-* [ ] Release Initial Tutorials
+* [X] Write Documentation
+* [X] Release Initial Tutorials
 
 
 #### Stage 2
