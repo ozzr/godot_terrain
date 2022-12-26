@@ -86,7 +86,7 @@ I am releasing the editor sooner so you can enjoy, or test, I still have some ut
 
 #### Stage 2
 * [ ] Add Surface Regional Texture Proxy ( Just something to read more than one patch texture as one) (Maybe use a viewport?) 
-* [ ] Add Navigation
+* [X] Add Navigation
 * [ ] Add Path Painter
   * [ ] Add Roads
   * [ ] Add Rivers
