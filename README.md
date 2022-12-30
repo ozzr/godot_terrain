@@ -10,7 +10,7 @@ Assets created by @brainlimited
 To start testing, download or clone this repo [grab the compiled engine in the release section](https://github.com/ozzr/godot_terrain/tags) and open one of the projects.
 
 ## Description
-Terrain system inside godot that works with the GLES3 and GLES2 Godot renderers.
+Terrain system inside that works with the GLES3 and GLES2 renderers.
 
 ### What you get:
 * Full In Editor terrain editor
