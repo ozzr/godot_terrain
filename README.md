@@ -2,8 +2,8 @@
 Terrain Module for Godot Engine 3.5
 ---------------------------------
 
-![simple_scene](simple_demo/simple_scene.jpg)
-Custom Godot Engine Build with Terrain Module
+![hq_preview](terrain_preview_03.jpg)
+Assets created by @brainlimited
 
 #### v1.0.2
 
