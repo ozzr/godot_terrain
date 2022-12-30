@@ -5,14 +5,12 @@ Terrain Module for Godot Engine 3.5
 ![hq_preview](terrain_preview_03.jpg)
 Assets created by @brainlimited
 
-#### v1.0.2
-
-### You can purchase the source code and export templates at [Gumroad](https://ozzrc.gumroad.com/l/qbcek)
+### Source code and export templates at [Gumroad](https://ozzrc.gumroad.com/l/qbcek)
 
 To start testing, download or clone this repo [grab the compiled engine in the release section](https://github.com/ozzr/godot_terrain/tags) and open one of the projects.
 
 ## Description
-Over the last year I have worked in this project. My idea was to create a Terrain system inside godot that worked under both backends GLES3 - GLES2.
+Terrain system inside godot that works with the GLES3 and GLES2 Godot renderers.
 
 ### What you get:
 * Full In Editor terrain editor
