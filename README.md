@@ -3,7 +3,7 @@ Terrain Module for Godot Engine 3.5
 ---------------------------------
 
 ![hq_preview](terrain_preview_03.jpg)
-Assets by @brainlimited
+Assets by [Roope](https://github.com/outobugi)
 ![terrain_with_river](https://user-images.githubusercontent.com/36895302/213033135-dfb254be-66db-402b-840b-5d90e5c7b89c.png)
 River Surface made using the [Waterway Plugin](https://github.com/Arnklit/Waterways) by Arnklit 
 
