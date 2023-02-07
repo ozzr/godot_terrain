@@ -1,11 +1,12 @@
 
 Terrain Module for Godot Engine 3.5
 ---------------------------------
-
-![hq_preview](terrain_preview_03.jpg)
-Assets by [Roope](https://github.com/outobugi)
-![terrain_with_river](https://user-images.githubusercontent.com/36895302/213033135-dfb254be-66db-402b-840b-5d90e5c7b89c.png)
-River Surface made using the [Waterway Plugin](https://github.com/Arnklit/Waterways) by Arnklit 
+![terrain_hx_2](https://user-images.githubusercontent.com/36895302/217158425-46d09dbf-4235-4e6c-8fea-0464c70a9e64.png)
+Scene Credits:
+* Foliage by [Roope](https://github.com/outobugi)
+* [Rigged Human Character](https://skfb.ly/o87oU) by BlendTek 
+![terrain_hx_9](https://user-images.githubusercontent.com/36895302/217159962-cfd6edfb-9dbe-4d4d-90b8-936beaef1b21.png)
+River made using a modified version of the [Waterway Plugin](https://github.com/ozzr/godot-waterways) by Arnklit 
 
 ### Source code and export templates at [Gumroad](https://ozzrc.gumroad.com/l/qbcek)
 
