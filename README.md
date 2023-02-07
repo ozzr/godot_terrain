@@ -5,6 +5,7 @@ Terrain Module for Godot Engine 3.5
 Scene Credits:
 * Foliage by [Roope](https://github.com/outobugi)
 * [Rigged Human Character](https://skfb.ly/o87oU) by BlendTek 
+
 ![terrain_hx_9](https://user-images.githubusercontent.com/36895302/217159962-cfd6edfb-9dbe-4d4d-90b8-936beaef1b21.png)
 River made using a modified version of the [Waterway Plugin](https://github.com/ozzr/godot-waterways) by Arnklit 
 
