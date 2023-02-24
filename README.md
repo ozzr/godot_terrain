@@ -27,7 +27,7 @@ Terrain system that works with the GLES3 and GLES2 renderers.
 I am releasing the editor for free. The export templates and the source code are available for purchase at [Gumroad](https://ozzrc.gumroad.com/l/qbcek) however my advice is that you compile the module your self, doing that is easier than you think, even if you are not a programmer, just do EXACTLY what the godot build pages tell to do. Depending on your machine, it could only take you some minutes to compile the engine.
 
 ### Tutorials
-[Version 1.1.x ](https://youtu.be/jKRfhuWzIqU)
+**[Terrain - version 1.1.x ](https://youtu.be/jKRfhuWzIqU)**
 
 **[Read The Documentation Here](https://github.com/ozzr/godot_terrain/blob/main/documentation/index.md)**
 
